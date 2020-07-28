@@ -1,0 +1,3 @@
+[submodule "v4l2loopback"]
+	path = v4l2loopback
+	url = https://github.com/umlaeute/v4l2loopback.git
